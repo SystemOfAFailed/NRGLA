@@ -1,2 +1,2 @@
 # NRGLA
-stuff for nrg
+# stuff goes here
